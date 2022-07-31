@@ -1,13 +1,12 @@
 [	
 	{
-		"name": "Maid Mansion",
-		"replaces": "Courthouse",
+		"name": "Kobayashi's House",
+		"replaces": "Monument",
 		"uniqueTo": "Maid Empire",
-		"maintenance": 3,
-		"happiness": 1,
-		"cityStrength": 2,
+		"maintenance": 2,
+		"happiness": 3,
+		"culture": 2,
 		"cost": 90,
-		"uniques": ["Remove extra unhappiness from annexed cities", "[+1 culture] once [Archeology] is discovered"],
-		"requiredTech": "Mathematics"
+		"uniques":[+2 culture] once [Archeology] is discovered"]
 	},
 ]
