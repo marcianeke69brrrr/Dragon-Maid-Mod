@@ -7,6 +7,6 @@
 		"happiness": 3,
 		"culture": 2,
 		"cost": 90,
-		"uniques":[+2 Culture] once [Theology] is discovered"]
+		"uniques":"[+1 culture] once [Theology] is discovered]"
 	},
 ]
