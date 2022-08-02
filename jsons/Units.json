@@ -66,7 +66,7 @@
 		"cost": 1100,
 		"requiredTech": "Stealth",
 		"requiredResource": "Oil",
-		"promotions": ["Bombardment I"],
+		"promotions": ["Bombardment II"],
 		"attackSound": "shot"
 	},
 	{
@@ -83,22 +83,22 @@
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
 		"uniques": ["[100]% chance to intercept air attacks",
-			"+[150]% Strength vs [Bomber]",
+			"+[125]% Strength vs [Bomber]",
 			"6 tiles in every direction always visible"],
-		"promotions": ["Bombardment I"],
+		"promotions": ["Air Recon"],
 		"attackSound": "shot"
 	},
 	{
 		"name": "Elma (dragon ver.)",
 		"unitType": "WaterMelee",
-		"replaces": "Destroyer",
+		"replaces": "Nuclear submarine",
 		"uniqueTo": "Maid Empire",
 		"movement": 7,
 		"strength": 55,
 		"interceptRange": 2,
-		"cost": 1000,
+		"cost": 1200,
 		"requiredTech": "Combustion",
-		"uniques": ["Can attack submarines", "[40]% chance to intercept air attacks", "+[50]% Strength vs [City]",
+		"uniques": ["Can attack submarines", "[20]% chance to intercept air attacks",
 			"May withdraw before melee ([50]%)", "+[100]% Strength vs [WaterSubmarine]", "Can move after attacking"],
 	},
 	{
