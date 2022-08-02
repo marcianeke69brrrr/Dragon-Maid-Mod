@@ -90,7 +90,7 @@
 	},
 	{
 		"name": "Elma (dragon ver.)",
-		"unitType": "WaterMelee",
+		"unitType": "RangedWater",
 		"replaces": "Submarine",
 		"uniqueTo": "Maid Empire",
 		"movement": 7,
