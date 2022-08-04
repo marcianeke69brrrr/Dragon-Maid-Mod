@@ -11,7 +11,7 @@
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
 		"uniques": ["Can move after attacking"],
-		"promotions": ["Maid Trooper"],
+		"promotions": ["Dragons fury"],
 		"attackSound": "shot"
 	},
 	{
@@ -24,7 +24,7 @@
 		"cost": 550,
 		"requiredTech": "Mobile Tactics"
 		"uniques": ["Can move after attacking"],
-		"promotions": ["Maid Trooper", "March"]
+		"promotions": ["Dragons fury", "Cover I"]
 	},
 	{
 		"name": "Ilulu",
@@ -39,7 +39,7 @@
 		"requiredTech": "Rocketry",
 		"uniques": ["+[200]% Strength vs [City]","No defensive terrain bonus",
 			"Must set up to ranged attack","Limited Visibility","Ranged attacks may be performed over obstacles"],
-		"promotions": ["Maid Trooper", "Medic"],
+		"promotions": ["Dragons fury", "Siege"],
 	},
 	{
 		"name": "Fafnir (dragon ver.)",
@@ -52,7 +52,7 @@
 		"requiredTech": "Lasers",
 		"requiredResource": "Oil",
 		"uniques": ["Can move after attacking","Ignores terrain cost", "[60]% chance to intercept air attacks"],
-		"promotions": ["Maid Trooper", "Cover I"],
+		"promotions": ["Dragons fury", "Blitz"],
 	},
 	{
 		"name": "Tohru (dragon ver.)",
@@ -60,13 +60,13 @@
 		"replaces": "Stealth Bomber",
 		"uniqueTo": "Maid Empire",
 		"movement": 1,
-		"strength": 70,
-		"rangedStrength": 70,
+		"strength": 85,
+		"rangedStrength": 65,
 		"range": 10,
 		"cost": 1100,
 		"requiredTech": "Stealth",
 		"requiredResource": "Oil",
-		"promotions": ["Bombardment II"],
+		"promotions": ["Bombardment I", "Evasion"],
 		"attackSound": "shot"
 	},
 	{
@@ -75,31 +75,32 @@
 		"replaces": "Jet Fighter",
 		"uniqueTo": "Maid Empire",
 		"movement": 1,
-		"strength": 75,
-		"rangedStrength": 75,
+		"strength": 50,
+		"rangedStrength": 95,
 		"range": 10,
 		"interceptRange": 10,
 		"cost": 880,
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
 		"uniques": ["[100]% chance to intercept air attacks",
-			"+[125]% Strength vs [Bomber]",
+			"+[150]% Strength vs [Helicopter]",
 			"6 tiles in every direction always visible"],
-		"promotions": ["Air Recon"],
+		"promotions": ["Air Recon", "Dragons fury"],
 		"attackSound": "shot"
 	},
 	{
 		"name": "Elma (dragon ver.)",
-		"unitType": "RangedWater",
-		"replaces": "Submarine",
-		"uniqueTo": "Maid Empire",
+		"unitType": "Submarine",
+		"replaces": "Nuclear Submarine",
+		"uniqueTo": "Dragon Empire",
 		"movement": 7,
-		"strength": 55,
+		"strength": 50,
 		"interceptRange": 2,
+                "rangedStrength": 85,
 		"cost": 1200,
-		"requiredTech": "Refrigeration",
-		"uniques": ["Can only attack Water tiles", "[25]% chance to intercept air attacks",
-			"May withdraw before melee ([50]%)", "+[150]% Strength vs [WaterSubmarine]",
+		"requiredTech": "Telecommunications",
+		"uniques": ["Can only attack Water tiles", "[30]% chance to intercept air attacks",
+			"Invisible to others", "Can see invisible [Submarine] units", "+[75]% Strength <when attacking> ", "Can enter water tiles", "Can carry [2] [Missile] units"  
 	},
 	{
 		"name": "Kobayashi",
