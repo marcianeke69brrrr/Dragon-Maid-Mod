@@ -2,7 +2,7 @@
 	{
 		"name": "Kobayashi's House",
 		"replaces": "Monument",
-		"uniqueTo": "Maid Empire",
+		"uniqueTo": "Dragon Empire",
 		"maintenance": 2,
 		"happiness": 3,
 		"culture": 2,
