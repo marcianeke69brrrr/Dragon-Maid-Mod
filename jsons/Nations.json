@@ -14,9 +14,9 @@
 		"tradeRequest": "I have something want to trade with you.",
 		"outerColor": [0,0,140],
 		"innerColor": [255,255,255],
-		"uniqueName": "Dragons Pride",
-		"uniques": ["[+1 Production, +1 Culture] from every specialist", "[+1 Happiness] [in all cities]",
-			"[+1 Happiness, +1 Culture] from every [Temple]", "+[5]% combat bonus for units fighting in [Foreign Land]"],
+		"uniqueName": "Only Destruction",
+		"uniques": ["[+1 Happiness] [in all cities]",
+			"[+1 Happiness, +1 Culture] from every [Barracks]", "+[5]% combat bonus for units fighting in [Foreign Land]"],
 		"cities": ["Maidlyopolis", "Cordelia", "Maria", "Mariel", "Yuri Alpha", "Belfast", "Sakuya", "Angelina", "Dragon Maid",
 			"Hammann", "Farin K. Ehrlichkeit", "Noel K. Ehrlichkeit", "Aqua", "Kaoru", "Wilhelmina Carmel", "Lizlet L. Chelsie", "Mahoro", "Hazuki",
 			"Arianna", "Rem", "Ram"]
