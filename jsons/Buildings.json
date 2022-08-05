@@ -6,7 +6,7 @@
 		"maintenance": 2,
 		"happiness": 3,
 		"culture": 2,
-		"cost": 90,
-		"uniques":"[+1 culture] once [Theology] is discovered]"
+		"cost": 500,
+                "uniques": ["[+1 Culture] <after discovering [Archaeology]>"
 	},
 ]
