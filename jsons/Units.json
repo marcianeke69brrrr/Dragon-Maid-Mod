@@ -84,7 +84,7 @@
 		"cost": 880,
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
-		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"], "[4] Sight"], 
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"], 
 		"promotions": ["Dragons fury"],
 		"attackSound": "jetshot"
 	},
