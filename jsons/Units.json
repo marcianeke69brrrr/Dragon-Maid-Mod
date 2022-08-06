@@ -99,8 +99,7 @@
                 "rangedStrength": 85,
 		"cost": 1200,
 		"requiredTech": "Telecommunications",
-		"uniques": ["Can only attack Water tiles", "[30]% chance to intercept air attacks",
-			"Invisible to others", "Can see invisible [Submarine] units", "+[75]% Strength <when attacking> ", "Can enter water tiles",  
+		"uniques": ["Can only attack Water tiles", "[30]% chance to intercept air attacks","Invisible to others", "Can see invisible [Submarine] units", "+[75]% Strength <when attacking> ", "Can enter water tiles"  
 	},
         {
 		"name": "Kobayashi",
