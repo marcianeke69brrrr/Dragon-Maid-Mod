@@ -7,9 +7,9 @@
 		"movement": 2,
 		"strength": 70,
 		"cost": 450,
-		"requiredTech": "Plastics",
+		"requiredTech": "Replaceable parts",
 		"upgradesTo": "Mechanized Infantry",
-		"obsoleteTech": "Mobile Tactics",
+		"obsoleteTech": "Electronics",
 		"uniques": ["Can move after attacking"],
 		"promotions": ["Dragons fury"],
 		"attackSound": "shot"
@@ -22,7 +22,7 @@
 		"movement": 3,
 		"strength": 90,
 		"cost": 550,
-		"requiredTech": "Mobile Tactics"
+		"requiredTech": "Electronics"
 		"uniques": ["Can move after attacking"],
 		"promotions": ["Dragons fury", "Cover I"]
                 "attackSound": "tankshot"
