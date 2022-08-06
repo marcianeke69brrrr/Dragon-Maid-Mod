@@ -7,7 +7,7 @@
 		"movement": 2,
 		"strength": 70,
 		"cost": 450,
-		"requiredTech": "Replaceable parts",
+		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Electronics",
 		"uniques": ["Can move after attacking"],
@@ -98,7 +98,7 @@
                 "rangedStrength": 85,
 		"interceptRange": 2,
 		"cost": 1200,
-		"requiredTech": "Combustion",
+		"requiredTech": "Computers",
 		"uniques": ["Can see submarines", "[20]% chance to intercept air attacks", "Invisible to others",
 			"Can carry [2] [Missile] units", "+[75]% Strength <when attacking>", "Can see invisible [Submarine] units"],
                 "attackSound": "torpedo"
