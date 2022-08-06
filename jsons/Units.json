@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Tohru",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"replaces": "Infantry",
 		"uniqueTo": "Dragon Empire",
 		"movement": 2,
@@ -16,7 +16,7 @@
 	},
 	{
 		"name": "Lucoa",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"replaces": "Mechanized Infantry",
 		"uniqueTo": "Dragon Empire",
 		"movement": 3,
@@ -25,6 +25,7 @@
 		"requiredTech": "Mobile Tactics"
 		"uniques": ["Can move after attacking"],
 		"promotions": ["Dragons fury", "Cover I"]
+                "attackSound": "tankshot"
 	},
 	{
 		"name": "Ilulu",
@@ -37,9 +38,9 @@
 		"range": 3,
 		"cost": 600,
 		"requiredTech": "Rocketry",
-		"uniques": ["+[200]% Strength <vs [City]>","No defensive terrain bonus",
+		"uniques": ["+[200]% Strength <vs cities> <when attacking", "No defensive terrain bonus",
 			"Must set up to ranged attack","Limited Visibility","Ranged attacks may be performed over obstacles"],
-		"promotions": ["Dragons fury", "Besiege"],
+		"promotions": ["Dragons fury", "Besiege", "Indirect Fire"],
 	},
 	{
 		"name": "Fafnir (dragon ver.)",
@@ -53,6 +54,7 @@
 		"requiredResource": "Oil",
 		"uniques": ["Can move after attacking","Ignores terrain cost", "[20]% chance to intercept air attacks"],
 		"promotions": ["Dragons fury", "Charge"],
+                "attackSound": "tankshot"
 	},
 	{
 		"name": "Tohru (Dragon ver.)",
@@ -67,7 +69,7 @@
 		"requiredTech": "Stealth",
 		"requiredResource": "Oil",
 		"promotions": ["Bombardment I", "Evasion"],
-		"attackSound": "shot"
+		"attackSound": "bombing"
 	},
 	{
 		"name": "Lucoa (Dragon ver.)",
@@ -82,10 +84,9 @@
 		"cost": 880,
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
-		"uniques": ["[100]% chance to intercept air attacks",
-			"+[150]% Strength <vs [Bomber]>", "+[150]% Strength <vs [Helicopter]>", "[4] Sight"], 
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"], "[4] Sight"], 
 		"promotions": ["Dragons fury"],
-		"attackSound": "shot"
+		"attackSound": "jetshot"
 	},
 	{
 		"name": "Elma (Dragon ver.)",
@@ -98,8 +99,9 @@
 		"interceptRange": 2,
 		"cost": 1200,
 		"requiredTech": "Combustion",
-		"uniques": ["Can see submarines", "[30]% chance to intercept air attacks", "Invisible to others",
-			"Can carry [2] [Missile] units", "+[75]% Strength <vs [Submarine]>", "Can see invisible [Submarine] units"],
+		"uniques": ["Can see submarines", "[20]% chance to intercept air attacks", "Invisible to others",
+			"Can carry [2] [Missile] units", "+[75]% Strength <when attacking >", "Can see invisible [Submarine] units"],
+                "attackSound": "torpedo
 	},
         {
 		"name": "Kobayashi",
