@@ -101,7 +101,7 @@
 		"requiredTech": "Telecommunications",
 		"uniques": ["Can only attack Water tiles", "[30]% chance to intercept air attacks",
 			"Invisible to others", "Can see invisible [Submarine] units", "+[75]% Strength <when attacking> ", "Can enter water tiles", "Can carry [2] [Missile] units"  
-	},
+	}
 	{
 		"name": "Kobayashi",
 		"unitType": "Civilian",
