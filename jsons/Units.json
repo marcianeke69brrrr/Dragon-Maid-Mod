@@ -39,7 +39,7 @@
 		"requiredTech": "Rocketry",
 		"uniques": ["+[200]% Strength vs [City]","No defensive terrain bonus",
 			"Must set up to ranged attack","Limited Visibility","Ranged attacks may be performed over obstacles"],
-		"promotions": ["Dragons fury", "Siege"],
+		"promotions": ["Dragons fury", "Besiege"],
 	},
 	{
 		"name": "Fafnir (dragon ver.)",
@@ -52,7 +52,7 @@
 		"requiredTech": "Lasers",
 		"requiredResource": "Oil",
 		"uniques": ["Can move after attacking","Ignores terrain cost", "[60]% chance to intercept air attacks"],
-		"promotions": ["Dragons fury", "Logistics"],
+		"promotions": ["Dragons fury", "Charge"],
 	},
 	{
 		"name": "Tohru (Dragon ver.)",
