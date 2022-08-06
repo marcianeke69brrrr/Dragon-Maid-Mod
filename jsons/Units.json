@@ -83,9 +83,8 @@
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
 		"uniques": ["[100]% chance to intercept air attacks",
-			"+[150]% Strength <vs [Bomber]>",
-			"[4] Sight"],
-		"promotions": ["Air Recon", "Dragons fury"],
+			"+[150]% Strength <vs [Bomber]>", "+[150]% Strength <vs [Helicopter]>", "[4] Sight"], 
+		"promotions": ["Dragons fury"],
 		"attackSound": "shot"
 	},
 	{
