@@ -6,7 +6,6 @@
 		"maintenance": 2,
 		"happiness": 3,
 		"culture": 2,
-		"cost": 500,
-                "uniques": "[+1 Culture] <after discovering [Philosophy]>"
+		"cost": 500
         },
 ]
