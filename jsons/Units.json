@@ -37,7 +37,7 @@
 		"range": 3,
 		"cost": 600,
 		"requiredTech": "Rocketry",
-		"uniques": ["+[200]% Strength vs [City]","No defensive terrain bonus",
+		"uniques": ["+[200]% Strength <vs [City]>","No defensive terrain bonus",
 			"Must set up to ranged attack","Limited Visibility","Ranged attacks may be performed over obstacles"],
 		"promotions": ["Dragons fury", "Besiege"],
 	},
@@ -83,7 +83,7 @@
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
 		"uniques": ["[100]% chance to intercept air attacks",
-			"+[150]% Strength vs [Bomber]",
+			"+[150]% Strength <vs [Bomber]>",
 			"[4] Sight"],
 		"promotions": ["Air Recon", "Dragons fury"],
 		"attackSound": "shot"
@@ -100,7 +100,7 @@
 		"cost": 1200,
 		"requiredTech": "Combustion",
 		"uniques": ["Can see submarines", "[30]% chance to intercept air attacks", "Invisible to others",
-			"Can carry [2] [Missile] units", "+[75]% Strength vs [Submarine]", "Can see invisible [Submarine] units"],
+			"Can carry [2] [Missile] units", "+[75]% Strength <vs [Submarine]>", "Can see invisible [Submarine] units"],
 	},
         {
 		"name": "Kobayashi",
