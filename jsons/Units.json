@@ -101,7 +101,7 @@
 		"requiredTech": "Combustion",
 		"uniques": ["Can see submarines", "[20]% chance to intercept air attacks", "Invisible to others",
 			"Can carry [2] [Missile] units", "+[75]% Strength <when attacking >", "Can see invisible [Submarine] units"],
-                "attackSound": "torpedo
+                "attackSound": "torpedo"
 	},
         {
 		"name": "Kobayashi",
