@@ -52,7 +52,7 @@
 		"requiredTech": "Lasers",
 		"requiredResource": "Oil",
 		"uniques": ["Can move after attacking","Ignores terrain cost", "[60]% chance to intercept air attacks"],
-		"promotions": ["Dragons fury", "Blitz"],
+		"promotions": ["Dragons fury", "Logistics"],
 	},
 	{
 		"name": "Tohru (Dragon ver.)",
@@ -83,7 +83,7 @@
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
 		"uniques": ["[100]% chance to intercept air attacks",
-			"+[150]% Strength vs [Helicopter]",
+			"+[150]% Strength vs [Bomber]",
 			"6 tiles in every direction always visible"],
 		"promotions": ["Air Recon", "Dragons fury"],
 		"attackSound": "shot"
@@ -108,7 +108,7 @@
 		"uniqueTo": "Dragon Empire",
 		"replaces": "Great General",
 		"uniques": ["Can start an [15]-turn golden age", "Bonus for units in 2 tile radius 5%", "Can construct [Citadel]",
-			"Great Person - [War]", "Unbuildable", "[+1] Visibility Range", "Invisible to others"],
+			"Great Person - [War]", "Unbuildable", "[+1] Sight", "Invisible to others"],
 		"movement": 3,
 	},
 ]
