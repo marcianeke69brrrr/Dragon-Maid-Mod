@@ -1,61 +1,61 @@
 
 game.png
-size: 650,1000
+size: 256, 256
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 NationIcons/Maid Empire
   rotate: false
-  xy: 0, 0
-  size: 200, 200
+  xy: 2, 2
+  size: 2, 2
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Kobayashi's House
   rotate: false
-  xy: 200, 0
+  xy: 2, 2
   size: 200, 200
   orig: 200, 200
   offset: 200, 200
   index: -1
 UnitIcons/Tohru
   rotate: false
-  xy: 0, 800
+  xy: 2, 2
   size: 200, 200
   orig: 200, 200
   offset: 200, 200
   index: -1
 UnitIcons/Lucoa
   rotate: false
-  xy: 200, 200
+  xy: 2, 2
   size: 200, 200
   orig: 200, 200
   offset: 200, 200
   index: -1
 UnitIcons/Ilulu
   rotate: false
-  xy: 200, 400
+  xy: 2, 2
   size: 200, 200
   orig: 200, 200
   offset: 200, 200
   index: -1
 UnitIcons/Fafnir
   rotate: false
-  xy: 200, 600
+  xy: 2, 2
   size: 200, 200
   orig: 200, 200
   offset: 200, 200
   index: -1
 UnitIcons/Kobayashi
   rotate: false
-  xy: 200, 800
+  xy: 2, 2
   size: 200, 200
   orig: 200, 200
   offset: 200, 200
   index: -1
 UnitIcons/Tohru (dragon ver.)
   rotate: false
-  xy:400, 200
+  xy: 2, 2
   size: 200, 200
   orig: 200, 200
   offset: 200, 200
@@ -63,48 +63,48 @@ UnitIcons/Tohru (dragon ver.)
 UnitIcons/Lucoa (dragon ver.)
   rotate: false
   xy:400, 400
-  size: 200, 200
+  size: 2, 2
   orig: 200, 200
   offset: 200, 200
   index: -1
 UnitIcons/Elma (dragon ver.)
   rotate: false
-  xy:400, 600
+  xy: 2, 2
   size: 200, 200
   orig: 200, 200
   offset: 200, 200
   index: -1
 TileSets/FantasyHex/Units/Tohru
   rotate: false
-  xy: 600, 84
+  xy: 2, 2
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lucoa
   rotate: false
-  xy: 600, 112
+  xy: 2, 2
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Fafnir
   rotate: false
-  xy: 600, 140
+  xy: 2, 2
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Kobayashi
   rotate: false
-  xy: 600, 196
+  xy: 2, 2
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Dragons fury
   rotate: false
-  xy: 600, 224
+  xy: 2, 2
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
